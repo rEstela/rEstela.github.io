@@ -97,9 +97,9 @@ extra:
       link: https://restela.github.io/
     - icon: fontawesome/brands/linkedin
       name: LinkedIn
-      link: https://www.linkedin.com/in/joseph-pena-quino
+      link: https://www.linkedin.com/in/estelaribeiroeng
     - icon: fontawesome/solid/rss
-      link: https://josephpenaquino.github.io/feed_rss_created.xml
+      link: https://restela.github.io/feed_rss_created.xml
 
 markdown_extensions:
   - attr_list
