@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 # Site
-site_name: Estela's personal site
-site_description: The personal site of Estela Ribeiro
-site_url: https://restela.github.io/
+site_name: Joseph's personal site
+site_description: The personal site of Joseph Pena Quino
+site_url: https://josephpenaquino.github.io/
 
 # Git
-repo_url: https://github.com/rEstela/rEstela.github.io
-repo_name: rEstela.github.io
+repo_url: https://github.com/JosephPenaQuino/JosephPenaQuino.github.io
+repo_name: JosephPenaQuino.github.io
 
 theme:
   icon:
@@ -97,12 +97,12 @@ extra:
   social:
     - icon: fontawesome/brands/github
       name: GitHub
-      link: https://github.com/rEstela
+      link: https://github.com/JosephPenaQuino
     - icon: fontawesome/brands/linkedin
       name: LinkedIn
-      link: https://www.linkedin.com/in/estelaribeiroeng
+      link: https://www.linkedin.com/in/joseph-pena-quino
     - icon: fontawesome/solid/rss
-      link: https://restela.github.io/feed_rss_created.xml
+      link: https://josephpenaquino.github.io/feed_rss_created.xml
 
 markdown_extensions:
   - attr_list
