@@ -1,0 +1,111 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+# Site
+site_name: Joseph's personal site
+site_description: The personal site of Joseph Pena Quino
+site_url: https://josephpenaquino.github.io/
+
+# Git
+repo_url: https://github.com/JosephPenaQuino/JosephPenaQuino.github.io
+repo_name: JosephPenaQuino.github.io
+
+theme:
+  icon:
+    repo: fontawesome/brands/git-alt
+  name: material
+  custom_dir: docs/overrides
+  language: en
+  features:
+    - header.autohide  # Auto-hide the header
+    - navigation.tabs  # Enable tabs in the navigation bar
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: pink
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: pink
+      accent: indigo
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: pink
+      accent: orange
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Research: research.md
+  - Blog:
+    - blog/index.md
+
+
+plugins:
+  - search  # search box
+  - blog
+  - rss:
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+hooks:
+  - hooks/socialmedia.py
+
+
+# Multiple language support
+extra:
+  analytics:
+    provider: google
+    property: G-PBJKPWT96V
+  feedback:
+    title: Was this page helpful?
+    ratings:
+      - icon: material/emoticon-happy-outline
+        name: This page was helpful
+        data: 1
+        note: >-
+          Thanks for your feedback!
+      - icon: material/emoticon-sad-outline
+        name: This page could be improved
+        data: 0
+        note: >-
+          Thanks for your feedback! Help us improve this page by
+          using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Español
+      link: /es/
+      lang: es
+    - name: Português
+      link: /pt/
+      lang: pt
+  social:
+    - icon: fontawesome/brands/github
+      name: GitHub
+      link: https://github.com/JosephPenaQuino
+    - icon: fontawesome/brands/linkedin
+      name: LinkedIn
+      link: https://www.linkedin.com/in/joseph-pena-quino
+    - icon: fontawesome/solid/rss
+      link: https://josephpenaquino.github.io/feed_rss_created.xml
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
