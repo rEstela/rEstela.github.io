@@ -1,2 +1,1 @@
-# rEstela.github.io
-Estela's personal portifolio
+# JosephPenaQuino.github.io
