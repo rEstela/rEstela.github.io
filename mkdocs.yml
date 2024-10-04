@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 # Site
-site_name: Joseph's personal site
-site_description: The personal site of Joseph Pena Quino
-site_url: https://josephpenaquino.github.io/
+site_name: Estela's personal site
+site_description: The personal site of Estela Ribeiro
+site_url: https://rEstela.github.io/
 
 # Git
-repo_url: https://github.com/JosephPenaQuino/JosephPenaQuino.github.io
-repo_name: JosephPenaQuino.github.io
+repo_url: https://github.com/rEstela/rEstela.github.io
+repo_name: rEstela/rEstela.github.io
 
 theme:
   icon:
@@ -67,9 +67,6 @@ hooks:
 
 # Multiple language support
 extra:
-  analytics:
-    provider: google
-    property: G-PBJKPWT96V
   feedback:
     title: Was this page helpful?
     ratings:
