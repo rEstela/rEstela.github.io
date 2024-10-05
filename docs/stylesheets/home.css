@@ -1,15 +1,30 @@
+body {
+    background-image: url('assets/images/background.jpg'); /* Caminho para a imagem */
+    background-size: cover; /* A imagem cobre toda a página */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Não repete a imagem */
+    background-attachment: fixed; /* A imagem fica fixa enquanto a página rola */
+}
+
 .md-header {
-    background-color: transparent;
+    background-color: transparent; /* Fundo do cabeçalho */
+    color: #007BFF; /* Cor do texto no cabeçalho */
 }
+
 [data-md-color-scheme="default"] .md-header {
-    color: #007BFF;
+    color: #007BFF; /* Cor do texto no esquema de cores padrão */
 }
+
 .md-tabs {
-    background-color: transparent;
+    background-color: transparent; /* Fundo das abas */
+    color: #007BFF; /* Cor do texto das abas */
 }
-[data-md-color-scheme="default"] .md-tabs {
-    color: #007BFF;
-}
+
 .md-tabs-bar {
-    background-color: #f4f4f4;
+    background-color: #f4f4f4; /* Cor de fundo da barra de abas */
+}
+
+/* Modificar cor das abas selecionadas */
+.md-tabs__link--active {
+    color: #0056b3; /* Cor para a aba ativa */
 }
