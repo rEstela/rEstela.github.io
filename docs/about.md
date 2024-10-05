@@ -8,6 +8,23 @@
 
 🏥 My main focus is on applications in the **Health Sciences**, where I strive to address practical challenges and help bridge the gap between theory and practice.
 
+## Research Interests
+- Explainable AI
+- Deep Learning
+- Machine Learning
+- Pattern Recognition
+- Statistics
+- Computational Neuroscience
+- Health and Medical Research
+
 <p align="center">
   <img src="./ProfilePic.jpg" alt="My Photo" width="200" style="border-radius: 50%; border: 2px solid #ddd;">
+</p>
+
+<p align="center">
+  <strong>Estela Ribeiro</strong>  
+  <br>Researcher  
+  <br>Heart Institute (InCor)  
+  <br><a href="mailto:estela.ribeiro@hc.fm.usp.br">estela.ribeiro@hc.fm.usp.br</a>  
+  <br><a href="mailto:estela.eng@hotmail.com">estela.eng@hotmail.com</a>
 </p>
