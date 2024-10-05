@@ -8,4 +8,6 @@
 
 🏥 My main focus is on applications in the **Health Sciences**, where I strive to address practical challenges and help bridge the gap between theory and practice.
 
-![My Photo](ProfilePic.jpg)
+<div style="text-align: center;">
+    <img src="ProfilePic.jpg" alt="My Photo" style="width: 200px; height: 200px; border-radius: 50%;">
+</div>
