@@ -47,6 +47,7 @@ theme:
 
 nav:
   - Home: index.md
+  - About: about.md
   - Projects: projects.md
   - Research: research.md
   - Blog:
