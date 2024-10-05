@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I’m a researcher at the **Biomedical Informatics Lab** of the **Heart Institute (InCor)** at **HCFMUSP**, São Paulo, Brazil. I also completed my postdoctoral studies here. 
+👋 Hi, I’m a researcher at the **Biomedical Informatics Laboratory** of the **Heart Institute (InCor)** at **HCFMUSP**, São Paulo, Brazil. I also completed my postdoctoral studies here. 
 
 🔬 My work lies at the crossroads of **Computer Science**, **Statistics**, and **Artificial Intelligence in Healthcare**. I am dedicated at learning to discover, generalize, and personalize cause-effect relationships from various observational and experimental data.
 
