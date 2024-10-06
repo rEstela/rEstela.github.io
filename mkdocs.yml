@@ -52,6 +52,8 @@ nav:
   - Research: research.md
   - Blog:
     - blog/index.md
+    - Blog Posts:
+      - !include blog/posts/*.md  # Include all markdown files in blog/posts
 
 
 plugins:
