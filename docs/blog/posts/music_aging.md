@@ -14,6 +14,8 @@ One of the fascinating things about music is how it pulls our whole brain into a
 
 So, it’s natural to wonder: if playing music can help our brains grow stronger, could it also help slow down the cognitive decline that often comes with aging?
 
+<!-- more -->
+
 ## Music and Hearing in Older Adults
 
 As we age, many of us experience some hearing difficulties. It’s common for older adults to face two main types of hearing issues:  
