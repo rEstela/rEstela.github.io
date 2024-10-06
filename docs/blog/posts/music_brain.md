@@ -12,6 +12,8 @@ comments: false
 
 Hi, everyone! Today, I want to dive into something that fascinates me: how music has the power to transform our brains. Over the last few decades, science has made incredible strides in this area, especially with the help of neuroimaging – those techniques that let us see what’s happening in our minds in amazing detail.
 
+<!-- more -->
+
 ## Neuroplasticity: Our Brain's Superpower
 
 A key concept here is neuroplasticity. This word refers to our nervous system’s ability to adapt and reorganize throughout life, responding to our experiences and environments. And here’s the cool part – music is one of the most powerful activities for promoting this brain flexibility. This means our brains can keep changing, no matter how old we are!
