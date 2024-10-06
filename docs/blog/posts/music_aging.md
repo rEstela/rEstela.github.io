@@ -50,7 +50,16 @@ Incorporating music into our lives, even in later years, might be a way to keep 
 
 ### References:
 
-- ZENDEL, B. R., & ALAIN, C. (2012). Musicians experience less age-related decline in central auditory processing. *Psychology and Aging, 27*(2), 410–417. DOI: [10.1037/a0024816](https://doi.org/10.1037/a0024816).
-- ZATORRE, R. J., BELIN, P., & PENHUNE, V. B. (2002). Structure and function of auditory cortex: music and speech. *Trends in Cognitive Science, 6*(1), 37–46. DOI: [10.1016/S1364-6613(00)01816-7](https://doi.org/10.1016/S1364-6613(00)01816-7).
-- VINCIGUERRA, C. (2017). Music intervention efficacy in elderly: a promising non-pharmacological approach to cognitive dysfunctions. *Neurological Sciences, 38*(6), 933–934. DOI: [10.1007/s10072-017-3011-9](https://doi.org/10.1007/s10072-017-3011-9).
-- STEFFENER, J., & STERN, Y. (2012). Exploring the neural basis of cognitive reserve in aging. *Biochimica et Biophysica Acta, 1822*(3), 467–473.
+- ZENDEL, Benjamin Rich; ALAIN, Claude. *Musicians experience less age-related decline in central auditory processing.* Psychology and Aging, v. 27, n. 2, p. 410–417, 2012. DOI: [10.1037/a0024816](https://doi.org/10.1037/a0024816).
+
+- ZATORRE, Robert J.; BELIN, Pascal; PENHUNE, Virginia B. *Structure and function of auditory cortex: music and speech.* Trends in Cognitive Science, v. 6, n. 1, p. 37–46, 2002. DOI: [10.1016/S1364-6613(00)01816-7](https://doi.org/10.1016/S1364-6613(00)01816-7).
+
+- ZATORRE, Robert J.; CHEN, Joyce L.; PENHUNE, Virginia B. *When the brain plays music: auditory–motor interactions in music perception and production.* Nature Reviews Neuroscience, v. 8, p. 547–558, 2007. DOI: [10.1038/nrn2152](https://doi.org/10.1038/nrn2152).
+
+- VINCIGUERRA, Claudia. *Music intervention efficacy in elderly: a promising non-pharmacological approach to cognitive dysfunctions.* Neurological Sciences, v. 38, n. 6, p. 933–934, 2017. DOI: [10.1007/s10072-017-3011-9](https://doi.org/10.1007/s10072-017-3011-9).
+
+- STEFFENER, Jason; STERN, Yaakov. *Exploring the neural basis of cognitive reserve in aging.* Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, v. 1822, n. 3, p. 467–473, 2012. Imaging Brain Aging and Neurodegenerative Disease. DOI: [10.1016/j.bbadis.2011.09.012](https://doi.org/10.1016/j.bbadis.2011.09.012).
+
+- EGGERMONT, Jos J. Chapter 9 - *Music and the Brain.* In: EGGERMONT, Jos J. (Ed.). *Noise and the Brain.* San Diego: Academic Press, 2014. P. 240–265. ISBN 978-0-12-415994-5. DOI: [10.1016/B978-0-12-415994-5.00009-9](https://doi.org/10.1016/B978-0-12-415994-5.00009-9).
+
+- BAIRD, Amee; SAMSON, Séverine. Chapter 11 - *Music and dementia.* In: ALTENMÜLLER, Eckart; FINGER, Stanley; BOLLER, François (Ed.). *Music, Neurology, and Neuroscience: Evolution, the Musical Brain, Medical Conditions, and Therapies.* [S.l.]: Elsevier, 2015. v. 217. (Progress in Brain Research). P. 207–235. DOI: [10.1016/bs.pbr.2014.11.028](https://doi.org/10.1016/bs.pbr.2014.11.028).
