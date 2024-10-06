@@ -88,20 +88,20 @@ DOI: [10.48550/arXiv.2307.08766](https://doi.org/10.48550/arXiv.2307.08766)
 
 ---
 
-# Participation in Examination Boards
+## Participation in Examination Boards
 
-## PhD Qualification Exams
+### PhD Qualification Exams
 
 1. **Thomaz, C. E.; RIBEIRO, E.; NOBRE, D. T. C.** Participated in the PhD qualification board of **Leonardo Antunes Ferreira**. Thesis: *Automatic and Continuous Neonatal Facial Expression of Pain: A Computational Methodology for Clinical Practice*. *Centro Universitário FEI*, 2024.
 
-## Master's Qualification Exams
+### Master's Qualification Exams
 
 1. **Cordeiro, T.; RIBEIRO, E.; Pimentel, B. A.** Participated in the Master's qualification board of **Rafael Monteiro Laranjeira**. Thesis: *Multimodal Fusion: Image-Based ECG Signal Classification for Atrial Fibrillation Detection*. *Universidade Federal de Alagoas (UFAL)*, 2024.
 
-## Master's Theses
+### Master's Theses
 
 1. **Osamu Saotome; Marcus Henrique Victor Júnior; Mônica Mitiko Soares Matsumoto; Harki Tanaka; RIBEIRO, E.** Participated in the Master's thesis board of **JEAN PHELIPE DE OLIVEIRA LIMA**. Thesis: *Evaluation of Explainability Methods in Convolutional Neural Networks for COVID-19 Detection in Computed Tomography Images*. *Instituto Tecnológico de Aeronáutica (ITA)*, 2023.
 
-## Undergraduate Theses
+### Undergraduate Theses
 
 1. **Thomaz, C. E.; L. R. S. Junior; RIBEIRO, E.** Participated in the undergraduate thesis board of **BRUNO L. R.; GUILHERME B. P.; LUCAS M. C.; Paulo H. V. C.**. Thesis: *SLEEP-IA, Sleep Monitoring: An Approach for Sleep Stage Classification Using Artificial Neural Networks*. *Centro Universitário FEI*, 2021.
