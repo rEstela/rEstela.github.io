@@ -5,7 +5,7 @@ categories:
   - music
   - brain
   - neuro
-comments: true
+comments: false
 ---
 
 # How Music Transforms the Brain: Uncovering the Power of Neuroplasticity
@@ -48,9 +48,7 @@ So, when you practice music, besides expressing your creativity, you’re also s
 
 I’ll leave it here, but feel free to share your thoughts in the comments on this brain transformation through music!
 
----
-
-## References
+### References
 
 - ALTENMÜLLER, Eckart; SCHLAUG, Gottfried. Chapter 12 - Apollo’s gift: new aspects of neurologic music therapy. In: ALTENMÜLLER, Eckart; FINGER, Stanley; BOLLER, François (Ed.). *Music, Neurology, and Neuroscience: Evolution, the Musical Brain, Medical Conditions, and Therapies.* [S.l.]: Elsevier, 2015. v. 217. (Progress in Brain Research). P. 237–252. DOI: [10.1016/bs.pbr.2014.11.029](https://doi.org/10.1016/bs.pbr.2014.11.029).
 
