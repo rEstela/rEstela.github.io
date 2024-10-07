@@ -84,7 +84,7 @@ DOI: [10.48550/arXiv.2307.08766](https://doi.org/10.48550/arXiv.2307.08766)
 
 - **Thomaz, C. E.; ⭐ RIBEIRO, E.; NOBRE, D. T. C.** Participated in the PhD qualification board of **Leonardo Antunes Ferreira**. TITLE: *Avaliação Automática e Contínua da Expressão Facial de Dor Neonatal: Uma Metodologia Computacional para a Prática Clínica*. *Centro Universitário FEI*, 2024.
 
-**Master's Dissetation**
+**Master's Exams**
 
 - **Osamu Saotome; Marcus Henrique Victor Júnior; Mônica Mitiko Soares Matsumoto; Harki Tanaka; ⭐ RIBEIRO, E.** Participated in the Master's thesis board of **JEAN PHELIPE DE OLIVEIRA LIMA**. TITLE: *Avaliação de Métodos de Explicabilidade em Redes Neurais Convolucionais para Detecção de COVID-19 em Imagens de Tomografia Computadorizada*. *Instituto Tecnológico de Aeronáutica (ITA)*, 2023.
 
@@ -94,4 +94,4 @@ DOI: [10.48550/arXiv.2307.08766](https://doi.org/10.48550/arXiv.2307.08766)
 
 **Undergraduate**
 
-- **Thomaz, C. E.; L. R. S. Junior; ⭐ RIBEIRO, E.** Participated in the undergraduate TCC board of **BRUNO L. R.; GUILHERME B. P.; LUCAS M. C.; Paulo H. V. C.**. TITLE: *SLEEP-IA, Sleep Monitoring: An Approach for Sleep Stage Classification Using Artificial Neural Networks*. *Centro Universitário FEI*, 2021.
+- **Thomaz, C. E.; L. R. S. Junior; ⭐ RIBEIRO, E.** Participated in the undergraduate thesis board of **BRUNO L. R.; GUILHERME B. P.; LUCAS M. C.; Paulo H. V. C.**. TITLE: *SLEEP-IA, Sleep Monitoring: An Approach for Sleep Stage Classification Using Artificial Neural Networks*. *Centro Universitário FEI*, 2021.
