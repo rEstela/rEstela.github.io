@@ -1,6 +1,6 @@
 ---
 date:
-    created: 2024-10-06
+    created: 2024-10-05
 categories:
   - music
   - brain
