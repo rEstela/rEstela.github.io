@@ -10,6 +10,8 @@ comments: false
 
 Have you ever felt lost in your machine learning projects, not knowing what code you used, what datasets were involved, or how the models performed? If so, I have a recommendation that could be a game changer for you: **MLFlow**.
 
+<!-- more -->
+
 MLFlow is an incredibly helpful tool designed to manage, track, and deploy machine learning models. It simplifies your workflow by allowing you to log and compare your experiments—things like hyperparameters (learning rate, number of layers, etc.), metrics (accuracy, F1-score, etc.), code versions, and even environment dependencies. This makes it so much easier to keep track of everything and compare results from different experiments.
 
 What's even better is that MLFlow works well for both solo projects and collaborative efforts, whether you're working locally or with a team.
