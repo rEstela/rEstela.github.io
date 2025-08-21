@@ -16,7 +16,7 @@
 
 ## Journal Articles
 
-1.**DIAS, FELIPE M.; CARDENAS, D. A. C.; TOLEDO, M. A. F.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** Exploring the limitations of blood pressure estimation using the photoplethysmography signal. *Physiological Measurement*, vol. 46, pp 045007, 2025. 
+1. **DIAS, FELIPE M.; CARDENAS, D. A. C.; TOLEDO, M. A. F.; OLIVEIRA, F. A. C.; ⭐ RIBEIRO, E.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** Exploring the limitations of blood pressure estimation using the photoplethysmography signal. *Physiological Measurement*, vol. 46, pp 045007, 2025. 
 DOI: [10.1088/1361-6579/adcb86](https://doi.org/10.1088/1361-6579/adcb86)
 
 2. **⭐ RIBEIRO, ESTELA; CARDENAS, DIEGO A. C.; DIAS, FELIPE M.; KRIEGER, JOSE E.; GUTIERREZ, MARCO A.** Explainable AI in Deep Learning-Based Detection of Aortic Elongation on Chest X-Ray Images. *European Heart Journal - Digital Health*, vol. ztae04, pp. 1, 2024.  
